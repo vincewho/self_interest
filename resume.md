@@ -52,3 +52,30 @@ Created customer report for administration through SCCM for finding outdated/def
 *	Leveraged SCCM for tracking/conducting computer refresh across the campus as well as automated software/system installation by utilizing PowerShell and VBS scripts.
 *	Diagnosed and rectified issues regarding workstations by delivering level-1 and level-2 support, while documenting completed tickets by leveraging Sysaid system. Managed an average of 40 tickets/month.
 *	Administered user account and workstation management through active directory and SCCM.
+
+ASU, Tempe, AZ
+
+**Student Support Specialist \| Desktop Support Specialist** (2015 – 2018)
+
+*Technical Scope: Ubuntu/RedHat Server, SCCM*
+
+Created customer report for administration through SCCM for finding outdated/defective machine in the system. Provided prompt and efficient support for diagnosing and troubleshooting issues regarding hardware, software, and network connectivity. Ensured proper functioning of network systems through regular maintenance and upgrades. Developed Ubuntu/RedHat server templates in accordance with ISO security policy.
+
+#### Key Achievements
+
+*	Managed an average of 20 students requests daily for desktop support.
+*	Leveraged virtualized environments for executing test installation code in sandbox development area.
+*	Recommended detailed and cost-effective solutions for mobile device management.
+
+***
+
+### Education & training
+
+Arizona State University – Ira A. Fulton of Engineering
+
+* **Master of Science in Information Technology**, GPA: 3.67
+* **Bachelor of Science in Information Technology**, GPA: 3.88
+
+### Technical Certifications
+* A+
+* CCENT (In progress)
