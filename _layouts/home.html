@@ -9,7 +9,8 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+<!-- remove the posts until after the home page has been finished -->
+<!-- {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -27,6 +28,7 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+-->
 
 <!--    <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">
