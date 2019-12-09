@@ -4,4 +4,7 @@
 
 layout: home
 ---
-Hello! You reached my site! It is experimental so please criticize me as much as you want. It's all good. 
+<!-- ![heashot](assets/images/headshot.jpg#headshot) -->
+
+
+Hello! You reached my site! It is experimental so please criticize me as much as you want. It's all good.
