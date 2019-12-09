@@ -174,9 +174,9 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlighter-rouge .highlight { background: #eef; }
 
 /** Wrapper */
-.wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); margin-right: auto; margin-left: auto; padding-right: 15px; padding-left: 15px; }
+.wrapper { max-width: -webkit-calc(1100px - (30px)); max-width: calc(1100px - (30px)); margin-right: auto; margin-left: auto; padding-right: 15px; padding-left: 15px; }
 
-@media screen and (min-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px * 2)); max-width: calc(800px - (30px * 2)); padding-right: 30px; padding-left: 30px; } }
+@media screen and (min-width: 1100px) { .wrapper { max-width: -webkit-calc(1100px - (30px * 2)); max-width: calc(1100px - (30px * 2)); padding-right: 30px; padding-left: 30px; } }
 
 /** Clearfix */
 .wrapper:after, .footer-col-wrapper:after { content: ""; display: table; clear: both; }
@@ -204,7 +204,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-title { font-size: 26px; font-weight: 300; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
-@media screen and (max-width: 600px) { .site-title { padding-right: 45px; } }
+@media screen and (max-width: 800px) { .site-title { padding-right: 45px; } }
 
 .site-title, .site-title:visited { color: #424242; }
 
@@ -226,7 +226,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-nav .page-link:not(:last-child) { margin-right: 0; }
 
-@media screen and (min-width: 600px) { .site-nav { position: static; float: right; border: none; background-color: inherit; }
+@media screen and (min-width: 800px) { .site-nav { position: static; float: right; border: none; background-color: inherit; }
   .site-nav label[for="nav-trigger"] { display: none; }
   .site-nav .menu-icon { display: none; }
   .site-nav input ~ .trigger { display: block; }
@@ -248,11 +248,11 @@ table td { border: 1px solid #e8e8e8; }
 
 .footer-col-3 { width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); }
 
-@media screen and (min-width: 800px) { .footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
+@media screen and (min-width: 1100px) { .footer-col-1 { width: -webkit-calc(35% - (30px / 2)); width: calc(35% - (30px / 2)); }
   .footer-col-2 { width: -webkit-calc(20% - (30px / 2)); width: calc(20% - (30px / 2)); }
   .footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); } }
 
-@media screen and (min-width: 600px) { .footer-col { float: left; } }
+@media screen and (min-width: 800px) { .footer-col { float: left; } }
 
 /** Page content */
 .page-content { padding: 30px 0; flex: 1 0 auto; }
@@ -274,21 +274,21 @@ table td { border: 1px solid #e8e8e8; }
 
 .post-title, .post-content h1 { font-size: 42px; letter-spacing: -1px; line-height: 1; }
 
-@media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 42px; } }
+@media screen and (min-width: 1100px) { .post-title, .post-content h1 { font-size: 42px; } }
 
 .post-content { margin-bottom: 30px; }
 
 .post-content h2 { font-size: 28px; }
 
-@media screen and (min-width: 800px) { .post-content h2 { font-size: 32px; } }
+@media screen and (min-width: 1100px) { .post-content h2 { font-size: 32px; } }
 
 .post-content h3 { font-size: 22px; }
 
-@media screen and (min-width: 800px) { .post-content h3 { font-size: 26px; } }
+@media screen and (min-width: 1100px) { .post-content h3 { font-size: 26px; } }
 
 .post-content h4 { font-size: 18px; }
 
-@media screen and (min-width: 800px) { .post-content h4 { font-size: 20px; } }
+@media screen and (min-width: 1100px) { .post-content h4 { font-size: 20px; } }
 
 .social-media-list { display: table; margin: 0 auto; }
 
@@ -303,6 +303,6 @@ table td { border: 1px solid #e8e8e8; }
 .social-media-list li:hover .svg-icon { fill: currentColor; }
 
 /** Grid helpers */
-@media screen and (min-width: 800px) { .one-half { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } }
+@media screen and (min-width: 1100px) { .one-half { width: -webkit-calc(50% - (30px / 2)); width: calc(50% - (30px / 2)); } }
 
 /*# sourceMappingURL=style.css.map */
