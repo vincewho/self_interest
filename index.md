@@ -41,6 +41,8 @@ layout: home
                     <li>IPv4, Subnetting, Addressing, TCP/IP, DHCP, DNS, SSH</li>
                 </ul>
             </ul>
+            <h2>Professional Experience</h2>
+            <p>Gateway Community College</p>
         </div>
         <div class="col-4">
 
