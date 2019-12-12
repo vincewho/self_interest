@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- ![heashot](assets/images/headshot.jpg#headshot) -->
 
-<img src="assests/images/headshot.jpg" class="img-fluid" alt="headshot">
+<img src="./assests/images/headshot.jpg" class="img-fluid" alt="headshot">
 
 <div class="jumbotron">
     <h2 class="display-4">Hello</h2>
