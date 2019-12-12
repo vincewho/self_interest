@@ -10,3 +10,20 @@ layout: home
     <h2 class="display-4">Hello</h2>
     <p class="lead">You reached my site! It is experimental so please criticize me as much as you want. It's all good.</p>
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-8">
+            ### System Administrator
+            Technically sophisticated professional with hands on experience transitioning outdated systems to advance and efficient technological frameworks, maintaining enterprise networks, while improving overall productivity and achieving maximum end-user satisfaction.
+            
+            ***
+            
+            Proven expertise in server administration, user account management, PowerShell scripting, and virtualization with ability to revamp processes for IT infrastructure enhancement. Skilled trouble-shooter; continually focused on identifying, isolating, and resolving technical issues with proven success meeting organizational needs and clients’ expectation. In-depth knowledge of VMware and virtualization services; adept at optimizing system security and creating robust data backup/recovery solutions to ensure smooth flow of business-critical functions. Highly focused and results-oriented in supporting complex, deadline-driven operations; identify goals and priorities, while resolving issues at initial stages. Exceptional communication and analytical skills with keen focus on remaining at forefront of rapidly evolving technology.
+            
+            ***
+        </div>
+        <div class="col-4">
+
+        </div>
+    </div>
+</div>
