@@ -6,5 +6,7 @@ layout: home
 ---
 <!-- ![heashot](assets/images/headshot.jpg#headshot) -->
 
+<div class="container">
+    <p>Hello! You reached my site! It is experimental so please criticize me as much as you want. It's all good.</p>
+</div>
 
-Hello! You reached my site! It is experimental so please criticize me as much as you want. It's all good.
