@@ -22,6 +22,25 @@ layout: home
                 Proven expertise in server administration, user account management, PowerShell scripting, and virtualization with ability to revamp processes for IT infrastructure enhancement. Skilled trouble-shooter; continually focused on identifying, isolating, and resolving technical issues with proven success meeting organizational needs and clients’ expectation. In-depth knowledge of VMware and virtualization services; adept at optimizing system security and creating robust data backup/recovery solutions to ensure smooth flow of business-critical functions. Highly focused and results-oriented in supporting complex, deadline-driven operations; identify goals and priorities, while resolving issues at initial stages. Exceptional communication and analytical skills with keen focus on remaining at forefront of rapidly evolving technology.
             </p> 
             <hr class="my-4">
+            <h2>Technical Proficiencies</h2>
+            <ul>
+                <li>Platforms:</li>
+                <ul>
+                    <li>Linux, Windows, Cloud Computing</li>
+                </ul>
+                <li>Tools:</li>
+                <ul>
+                    <li>HTML, CSS, PHP, Bash, VBS, AWK, SQL, Python, PowerShell</li>
+                </ul>
+                <li>Applications:</li>
+                <ul>
+                    <li>Ubuntu, Packet Tracer, MS Office, Word, Excel, Active Directory</li>
+                </ul>
+                <li>Networking:</li>
+                <ul>
+                    <li>IPv4, Subnetting, Addressing, TCP/IP, DHCP, DNS, SSH</li>
+                </ul>
+            </ul>
         </div>
         <div class="col-4">
 
