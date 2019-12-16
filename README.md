@@ -12,13 +12,13 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "self-interest-theme"
+gem "selfinterest"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: self-interest-theme
+theme: selfinterest
 ```
 
 And then execute:
@@ -49,4 +49,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `self-int
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-

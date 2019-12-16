@@ -2,8 +2,3 @@
 
 source "https://rubygems.org"
 gemspec
-
-
-```ruby
-gem "self-interest-theme"
-```
